@@ -23,10 +23,12 @@
         display: flex;
 
         &__picture{
-            width: 7rem;
+            max-width: 70px;
+            max-height: 70px;
 
             @media screen and (max-width: 550px){
-                width: 5rem;
+                max-width: 50px;
+                max-height: 50px;
             }
         }
 
