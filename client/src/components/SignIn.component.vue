@@ -32,7 +32,7 @@ import axios from 'axios';
                 this.password = '';
             },
             login(email, password) {
-                axios.post('http://localhost:8000/api/v1/users/login', {
+                axios.post('/api/v1/users/login', {
                     email,
                     password
                 })

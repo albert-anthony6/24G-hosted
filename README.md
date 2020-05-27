@@ -6,7 +6,7 @@ A Full Stack project made using the Vue.js, Node, Express, mongoDB, and mongoose
 
 ---
 
-## project Schema
+## Project Schema
 
 Project can be cloned at https://github.com/albert-anthony6/24g. 
 
@@ -60,7 +60,7 @@ Many additions could still be made to this project, if work were to be continued
 
 - Deleting user
 
-- Ppdating own user if logged in
+- Updating own user if logged in
 
 - Updating comment
 

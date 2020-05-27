@@ -41,7 +41,7 @@ import axios from 'axios';
                 this.confirm = '';
             },
             signup(name, email, password, passwordConfirm) {
-                axios.post('http://localhost:8000/api/v1/users/signup', {
+                axios.post('/api/v1/users/signup', {
                     name,
                     email,
                     password,
