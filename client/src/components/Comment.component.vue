@@ -22,8 +22,11 @@
         margin-bottom: 3rem;
         display: flex;
         align-items: center;
+        flex-direction: row;
 
         &__picture{
+            width: 70px;
+            height: 100%;
             max-width: 70px;
             max-height: 70px;
 
