@@ -21,6 +21,7 @@
         /* background-color: red; */
         margin-bottom: 3rem;
         display: flex;
+        align-items: center;
 
         &__picture{
             max-width: 70px;
