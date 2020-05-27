@@ -23,10 +23,10 @@
         display: flex;
 
         &__picture{
-            width: 7%;
+            width: 7rem;
 
             @media screen and (max-width: 550px){
-                width: 10%;
+                width: 5rem;
             }
         }
 
