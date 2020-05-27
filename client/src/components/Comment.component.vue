@@ -18,7 +18,6 @@
 
 <style lang="scss" scoped>
     .comment{
-        /* background-color: red; */
         margin-bottom: 3rem;
         display: flex;
         align-items: center;
